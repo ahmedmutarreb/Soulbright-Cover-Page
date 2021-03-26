@@ -37,7 +37,7 @@ body{
     padding: 5px;
 }
 .social-nav a:hover {
-    color:rgb(24, 119, 242);
+    color:rgb(231, 34, 34);
     transform: rotate(180deg);
 }
 
