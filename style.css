@@ -18,21 +18,15 @@ body{
 
 .position{
     grid-row-start: 6;
-}
-
-
-.social-nav {
-    grid-row-start: 6;
     justify-self: left;
     align-self: flex-end;
-
-    
 }
+
+
 .social-nav a {
-    color: rgba(151, 218, 212, 0.719);
+    color: rgba(133, 216, 209, 0.719);
     text-decoration: none;
     display: inline-block;
-    align-self: flex-end;
     font-size: 35px;
     padding: 5px;
 }
@@ -45,7 +39,6 @@ body{
     color: rgba(151, 218, 212, 0.719);
     font-size:15px;
     justify-self: left;
-    align-self: flex-end;
    
 
 }
