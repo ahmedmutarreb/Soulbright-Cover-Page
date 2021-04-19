@@ -1,0 +1,13 @@
+@media screen and (max-width: 700px) {
+    body {
+
+        background-image: url("images/COMING-SOON--Phone-version---v2.jpg");
+
+        
+      }
+      .position{
+        grid-column-start: 2;
+        justify-self: left;
+        align-self: flex-end;
+    }
+    }
